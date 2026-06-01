@@ -1,4 +1,4 @@
-# Village Micromanager — Minecraft Forge Mod (1.20.1)
+# Village Micromanage — Forge (1.20.1)
 Minecraft Forge mod that gives players direct control over villager bed and worksites assignments, aka POIs (Point of Interest).
 
 In vanilla Minecraft, 
